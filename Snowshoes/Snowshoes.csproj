@@ -73,6 +73,7 @@
     <Compile Include="Bots\TestBot.cs" />
     <Compile Include="Common\GoldMonitor.cs" />
     <Compile Include="Bots\Sarkoth.cs" />
+	<Compile Include="Classes\Barbarian.cs" />
     <Compile Include="Classes\DemonHunter.cs" />
     <Compile Include="Common\Attack.cs" />
     <Compile Include="Common\DeathMonitor.cs" />
